@@ -1,10 +1,10 @@
-package com.example.pr15homyakov;
+package com.example.pr15fedotov;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import androidx.appcompat.app.AppCompatActivity;
-import com.example.pr15homyakov.R;
+import com.example.pr15fedotov.R;
 
 public class SplashActivity extends AppCompatActivity {
 

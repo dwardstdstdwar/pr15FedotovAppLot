@@ -1,4 +1,4 @@
-package com.example.pr15homyakov;
+package com.example.pr15fedotov;
 
 import android.content.Intent;
 import android.content.res.ColorStateList;

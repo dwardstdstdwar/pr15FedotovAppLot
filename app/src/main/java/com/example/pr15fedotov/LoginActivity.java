@@ -1,4 +1,4 @@
-package com.example.pr15homyakov;
+package com.example.pr15fedotov;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.AppCompatButton;
-import com.example.pr15homyakov.R;
+import com.example.pr15fedotov.R;
 
 public class LoginActivity extends AppCompatActivity {
 

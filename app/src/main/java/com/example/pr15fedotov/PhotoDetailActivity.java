@@ -1,4 +1,4 @@
-package com.example.pr15homyakov;
+package com.example.pr15fedotov;
 
 import android.os.Bundle;
 import android.widget.ImageView;
